@@ -1,9 +1,4 @@
-# mixyra
-god
--- File: troll.lua
 -- Author: Mixyra 
--- Version: 1.0
--- Release Date: 2018/5/26
 
 local Troll = {}
 
